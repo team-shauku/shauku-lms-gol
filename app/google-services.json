@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "281826758880",
+    "project_id": "shauku-46f90",
+    "storage_bucket": "shauku-46f90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281826758880:android:2764206f176f40a61c4085",
+        "android_client_info": {
+          "package_name": "com.example.shauku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281826758880-aj6hohocqot8r05de10hn8g3php7grb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shauku",
+            "certificate_hash": "44913f95e981f19b6d842f79c2c5a5212ec01b97"
+          }
+        },
+        {
+          "client_id": "281826758880-n5l8s7vkcqj6gnbl3d7405eeolsb3050.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMfLn0h5xa0A1bLYYz1ULi-Ly_mUoRGSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281826758880-n5l8s7vkcqj6gnbl3d7405eeolsb3050.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
